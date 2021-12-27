@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Patel 👨🏼‍🎓 @Phd-257
-- 👀 I’m interested in Software Engineering👨‍💻, Mathematics🧮 and Alternative Medicine💊.🤓
+- 👀 I’m interested in Software Engineering👨‍💻, Mathematics🧮 and Alternative Medicine💊
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 📫 How to reach me? phd25798@gmail.com
 
